@@ -3,10 +3,10 @@ subject: 'cat:cs.AI OR cat:cs.CV OR cat:cs.GR OR cat:cs.LG OR cat:cs.NE'
 
 # 検索キーワード
 keywords:
-        3D: 1
-        reconstruction: 1
+        3D: 1.5
+        reconstruction: 1.5
         monocular: 2
         single image: 2
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
