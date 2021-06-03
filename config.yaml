@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.AI OR cat:cs.CV OR cat:cs.GR OR cat:cs.LG OR cat:cs.NE'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        3D: 1
+        reconstruction: 1
+        monocular: 2
+        single image: 2
 
 # 通知の閾値
 score_threshold: 0
